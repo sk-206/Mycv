@@ -1,0 +1,28 @@
+
+body {
+background-color: #E8F9FD;
+}
+table.center {
+margin-left: auto;
+margin-right: auto;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+h1 {color: #112B3C;
+font-size: 50px;}
+
+h3 {
+  color: #15133C;
+}
+
+
+hr {
+    border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 7px;
+    width: 5%;
+}
